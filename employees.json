@@ -1,0 +1,11 @@
+[
+    {
+        "id": "EMP001",
+        "name": "Admin",
+        "email": "admin@company.com",
+        "phone": "1234567890",
+        "department": "Finance",
+        "role": "admin",    
+        "password": "admin123"
+    }
+]

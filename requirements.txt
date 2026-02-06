@@ -1,0 +1,3 @@
+tkcalendar
+fpdf2
+mysql-connector-pythonopenpyxl

@@ -1,0 +1,24 @@
+[
+    {
+        "id": "LV001",
+        "emp_id": "EMP002",
+        "emp_name": "First",
+        "leave_type": "Casual Leave",
+        "start_date": "2025-11-27",
+        "end_date": "2025-11-26",
+        "reason": "",
+        "status": "Rejected",
+        "applied_date": "2025-11-26 21:53:57"
+    },
+    {
+        "id": "LV002",
+        "emp_id": "EMP002",
+        "emp_name": "fist12",
+        "leave_type": "Vacation",
+        "start_date": "2025-11-19",
+        "end_date": "2025-11-26",
+        "reason": "my self",
+        "status": "Pending",
+        "applied_date": "2025-11-26 22:11:31"
+    }
+]
