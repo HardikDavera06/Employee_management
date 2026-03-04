@@ -32,6 +32,7 @@ class DatabaseManager:
                     user=cfg.get("user", "root"),
                     password=cfg.get("password", ""),
                     database=cfg.get("database", "employee_db"),
+                    use_pure=True,
                 )
                 self.engine = "mysql"
                 self._param_style = "format"
